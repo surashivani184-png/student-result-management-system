@@ -1,0 +1,172 @@
+[
+    {
+        "uid": "26MCA20231",
+        "name": "Shivani",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 94.0,
+            "Data Structures & Algorithms": 89.0,
+            "Computer Architecture": 86.0,
+            "Discrete Mathematics": 92.0,
+            "Operating Systems": 90.0
+        },
+        "total": 451.0,
+        "percentage": 90.2,
+        "grade": "A+",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20202",
+        "name": "Aman Sharma",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 78.0,
+            "Data Structures & Algorithms": 72.0,
+            "Computer Architecture": 68.0,
+            "Discrete Mathematics": 74.0,
+            "Operating Systems": 70.0
+        },
+        "total": 362.0,
+        "percentage": 72.4,
+        "grade": "B+",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20205",
+        "name": "Priya Verma",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 85.0,
+            "Data Structures & Algorithms": 82.0,
+            "Computer Architecture": 80.0,
+            "Discrete Mathematics": 79.0,
+            "Operating Systems": 84.0
+        },
+        "total": 410.0,
+        "percentage": 82.0,
+        "grade": "A",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20211",
+        "name": "Rahul Kumar",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 52.0,
+            "Data Structures & Algorithms": 48.0,
+            "Computer Architecture": 55.0,
+            "Discrete Mathematics": 45.0,
+            "Operating Systems": 50.0
+        },
+        "total": 250.0,
+        "percentage": 50.0,
+        "grade": "C",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20219",
+        "name": "Sneha Gupta",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 65.0,
+            "Data Structures & Algorithms": 34.0,
+            "Computer Architecture": 58.0,
+            "Discrete Mathematics": 62.0,
+            "Operating Systems": 60.0
+        },
+        "total": 279.0,
+        "percentage": 55.8,
+        "grade": "F",
+        "result": "FAIL"
+    },
+    {
+        "uid": "26MCA20224",
+        "name": "Vikram Singh",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 70.0,
+            "Data Structures & Algorithms": 66.0,
+            "Computer Architecture": 64.0,
+            "Discrete Mathematics": 59.0,
+            "Operating Systems": 68.0
+        },
+        "total": 327.0,
+        "percentage": 65.4,
+        "grade": "B",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20228",
+        "name": "Ananya Joshi",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 88.0,
+            "Data Structures & Algorithms": 91.0,
+            "Computer Architecture": 84.0,
+            "Discrete Mathematics": 87.0,
+            "Operating Systems": 85.0
+        },
+        "total": 435.0,
+        "percentage": 87.0,
+        "grade": "A",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20235",
+        "name": "Karan Mehra",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 42.0,
+            "Data Structures & Algorithms": 40.0,
+            "Computer Architecture": 45.0,
+            "Discrete Mathematics": 41.0,
+            "Operating Systems": 44.0
+        },
+        "total": 212.0,
+        "percentage": 42.4,
+        "grade": "D",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20240",
+        "name": "Neha Rawat",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 76.0,
+            "Data Structures & Algorithms": 74.0,
+            "Computer Architecture": 71.0,
+            "Discrete Mathematics": 73.0,
+            "Operating Systems": 78.0
+        },
+        "total": 372.0,
+        "percentage": 74.4,
+        "grade": "B+",
+        "result": "PASS"
+    },
+    {
+        "uid": "26MCA20245",
+        "name": "Rohit Malhotra",
+        "section": "4-A",
+        "semester": "1",
+        "marks": {
+            "Python Programming": 35.0,
+            "Data Structures & Algorithms": 38.0,
+            "Computer Architecture": 42.0,
+            "Discrete Mathematics": 36.0,
+            "Operating Systems": 40.0
+        },
+        "total": 191.0,
+        "percentage": 38.2,
+        "grade": "F",
+        "result": "FAIL"
+    }
+]
